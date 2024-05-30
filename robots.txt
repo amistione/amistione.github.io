@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amistione.github.io/a/sitemap.html
+Sitemap: https://amistione.github.io/b/sitemap.html
+Sitemap: https://amistione.github.io/c/sitemap.html
+Sitemap: https://amistione.github.io/d/sitemap.html
